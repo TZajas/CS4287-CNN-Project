@@ -1,2 +1,2 @@
-# CS4287-CNN-Project
-CS4287 Convolutional Neural Networks Project
+# CS4287 CNN Project
+Convolutional Neural Networks Project for Neural Networks Module \ 
